@@ -103,4 +103,4 @@ You can download the video I used in this project [here](https://drive.google.co
 
 ## Acknowledgements
 
-Built using [Ultralytics YOLO](https://docs.ultralytics.com/) and [OpenCV](https://opencv.org/).#
+Built using [Ultralytics YOLO](https://docs.ultralytics.com/) and [OpenCV](https://opencv.org/).
